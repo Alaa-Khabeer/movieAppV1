@@ -1,0 +1,14 @@
+.Img{
+    width: 280px;
+    display: inline-block;
+}
+.tit{
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.txt{
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
